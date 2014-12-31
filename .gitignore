@@ -8,6 +8,8 @@
 /test/tmp/
 /test/version_tmp/
 /tmp/
+*.json
+/raw_data
 
 ## Specific to RubyMotion:
 .dat*
